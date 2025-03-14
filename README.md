@@ -11,3 +11,9 @@ Key contributions:</br>
 - System Design: Encapsulated functionality in AirlineSystem.java, adhering to interface specifications for modularity and scalability.</br>
 
 - Error Handling & Validation: Integrated custom exceptions (e.g., AirportNotFoundException) and rigorous testing across diverse datasets (e.g., a4data1.txt) to ensure robustness and accuracy.
+
+## How to Use
+1. Have all files opened in VS code </br>
+2. On the terminal run "javac AirlineTest.java" </br>
+3. Then run "java AirlineTest" </br>
+4. You can now follow the menu for desire steps </br>
